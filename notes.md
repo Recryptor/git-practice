@@ -34,3 +34,9 @@ Three step commit process
 
 * Commit the staged files
     git commit -m "Descriptive commit message to myself and others"
+
+
+Sharing
+-------
+
+Use github.com
